@@ -19,5 +19,5 @@ Various notebooks that have some useful snippets
 
 * [**Survey EDA**](/Survey_EDA.ipynb) - A short notebook that pulls in some college survey data on programming languages and explores different visualizations
 
-* [**Treemap Visualization Using Bokeh**](/Bokeh\ TreeMap\ Post.ipynb) -  Shows how you can produce a treemap plot in bokeh.
+* [**Treemap Visualization Using Bokeh**](/BokehTreeMapPost.ipynb) -  Shows how you can produce a treemap plot in bokeh.
 
