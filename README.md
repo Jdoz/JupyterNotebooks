@@ -2,9 +2,9 @@
 
 ## Blog Posts
 
-These notebooks are also posted on my personal blog (DataDoz)[datadoz.com]
+These notebooks are also posted on my personal blog [DataDoz](datadoz.com)
 
-* **Autoencoder to Detect Fraud** - Uses pytorch to demonstrate how an Autoencoder and reconstruction error can be used to detect fraud.
+* [**Autoencoder to Detect Fraud**](/Fraud_Post_Pytorch_Update.ipynb) - Uses pytorch to demonstrate how an Autoencoder and reconstruction error can be used to detect fraud.
 
 * **Random Forest Interpretations** - Shows some techniques that can be used to increase understanding of Random Forest models.
 
